@@ -1,0 +1,10 @@
+Proposta: 1001 | Cliente: João Silva | Valor: 12000
+Proposta: 1002 | Cliente: Maria Souza | Valor: 8500
+Proposta: 1003 | Cliente: Pedro Oliveira | Valor: 10200
+Proposta: 1004 | Cliente: Ana Paula | Valor: 4500
+Proposta: 1005 | Cliente: Lucas Rocha | Valor: 7700
+Proposta: 1001 | Cliente: João Silva | Valor: 12000
+Proposta: 1002 | Cliente: Maria Souza | Valor: 8500
+Proposta: 1003 | Cliente: Pedro Oliveira | Valor: 10200
+Proposta: 1004 | Cliente: Ana Paula | Valor: 4500
+Proposta: 1005 | Cliente: Lucas Rocha | Valor: 7700
